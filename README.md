@@ -1,5 +1,7 @@
 <p align="center">
   <img src="assets/banner.svg" alt="Eduardo Doroteu" width="100%"/>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -11,7 +13,13 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-*Também trabalho com: DAX · Kanban/metodologias ágeis · Data Lake, Glue e EMR (AWS)*
+<p align="center">
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_EMR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Lake-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+</p>
 
 ---
 
