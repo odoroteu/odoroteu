@@ -29,7 +29,7 @@ Já implantei metodologias ágeis (**Kanban**), contribuí com a concepção de 
 
 ---
 
-### 🛠️ Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <p align="left">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -50,12 +50,12 @@ Já implantei metodologias ágeis (**Kanban**), contribuí com a concepção de 
 
 | Projeto | Descrição |
 |---|---|
-| 🏘️ **[CreditoImobiliarioRecife2024](https://github.com/odoroteu/CreditoImobiliarioRecife2024)** | Análise completa do mercado de crédito imobiliário em Recife (2024), a partir da base de ITBI da prefeitura, tratada e analisada em PostgreSQL |
-| 🏢 **[Analise-dados-cons.imobiliaria](https://github.com/odoroteu/Analise-dados-cons.imobiliaria)** | Análise de dados de uma correspondente/parceira bancária voltada ao mercado imobiliário |
+| **[CreditoImobiliarioRecife2024](https://github.com/odoroteu/CreditoImobiliarioRecife2024)** | Análise completa do mercado de crédito imobiliário em Recife (2024), a partir da base de ITBI da prefeitura, tratada e analisada em PostgreSQL |
+| **[Analise-dados-cons.imobiliaria](https://github.com/odoroteu/Analise-dados-cons.imobiliaria)** | Análise de dados de uma correspondente/parceira bancária voltada ao mercado imobiliário |
 
 ---
 
-### 📫 Contato
+### Contato
 
 <p align="left">
   <a href="https://www.linkedin.com/in/eduardo-doroteu" target="_blank">
