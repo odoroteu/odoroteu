@@ -1,7 +1,5 @@
-<h1 align="center">Olá, eu sou o Eduardo Doroteu! </h1>
-<h3 align="center">Analista de Dados & Analytics | Power BI · SQL · Python · AWS</h3>
-<p align="center">Automação de processos e qualidade de dados</p>
-
+<p align="center">
+  <img src="assets/banner.svg" alt="Eduardo Doroteu" width="100%"/>
 <p align="center">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
