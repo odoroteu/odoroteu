@@ -12,7 +12,7 @@
 
 ---
 
-### 🧭 Sobre mim
+### Sobre mim
 
 Analista de dados formado em **Ciências Econômicas**, atuando na transformação de dados brutos em decisões de negócio. Trabalho de ponta a ponta: da extração e modelagem em **SQL/Python** até dashboards em **Power BI** usados por times de gestão para acompanhar indicadores no dia a dia.
 
@@ -24,8 +24,8 @@ Já implantei metodologias ágeis (**Kanban**), contribuí com a concepção de 
 
 - **Atualmente**: dashboards de BI para o setor de Aftermarket (John Deere) e automação de processos com Power Automate
 - **Aprofundando**: AWS (Data Lake, Glue, EMR) e Databricks para transformar processos manuais em soluções escaláveis
-- 📍 Recife, PE — Brasil
-- 💬 Pergunte-me sobre: Power BI, qualidade e maturidade de dados, automação de processos e metodologias ágeis
+- Recife, PE — Brasil
+- Pergunte-me sobre: Power BI, qualidade e maturidade de dados, automação de processos e metodologias ágeis
 
 ---
 
