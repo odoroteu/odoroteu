@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Eduardo </h1>
+<h1 align="center">Olá, eu sou o Eduardo Doroteu! </h1>
 <h3 align="center">Analista de Dados & Analytics | Power BI · SQL · Python · AWS</h3>
 <p align="center">Automação de processos e qualidade de dados</p>
 
@@ -8,7 +8,12 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+*Também trabalho com: DAX · Kanban/metodologias ágeis · Data Lake, Glue e EMR (AWS)*
 
 ---
 
@@ -26,23 +31,6 @@ Já implantei metodologias ágeis (**Kanban**), contribuí com a concepção de 
 - **Aprofundando**: AWS (Data Lake, Glue, EMR) e Databricks para transformar processos manuais em soluções escaláveis
 - Recife, PE — Brasil
 - Pergunte-me sobre: Power BI, qualidade e maturidade de dados, automação de processos e metodologias ágeis
-
----
-
-### Linguagens e Tecnologias
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-*Também trabalho com: DAX · Kanban/metodologias ágeis · Data Lake, Glue e EMR (AWS)*
 
 ---
 
