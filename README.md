@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Eduardo 👋</h1>
+<h1 align="center">Olá, eu sou o Eduardo </h1>
 <h3 align="center">Analista de Dados & Analytics | Power BI · SQL · Python · AWS</h3>
 <p align="center">Automação de processos e qualidade de dados</p>
 
@@ -22,8 +22,8 @@ Também atuo em automação de processos e integração de sistemas, usando ferr
 
 Já implantei metodologias ágeis (**Kanban**), contribuí com a concepção de sistemas internos de controle e desenvolvi dashboards financeiros e operacionais que **aumentaram em 80% a velocidade de tomada de decisão** em times não técnicos.
 
-- 🔭 Atualmente: dashboards de BI para o setor de Aftermarket (John Deere) e automação de processos com Power Automate
-- 🌱 Aprofundando: AWS (Data Lake, Glue, EMR) e Databricks para transformar processos manuais em soluções escaláveis
+- **Atualmente**: dashboards de BI para o setor de Aftermarket (John Deere) e automação de processos com Power Automate
+- **Aprofundando**: AWS (Data Lake, Glue, EMR) e Databricks para transformar processos manuais em soluções escaláveis
 - 📍 Recife, PE — Brasil
 - 💬 Pergunte-me sobre: Power BI, qualidade e maturidade de dados, automação de processos e metodologias ágeis
 
